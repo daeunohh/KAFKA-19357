@@ -1,0 +1,2 @@
+clients/src/test/java/org/apache/kafka/clients/consumer/internals/CommitRequestManagerTest.java
+clients/clients-integration-tests/src/test/java/org/apache/kafka/clients/consumer/PlaintextConsumerCommitTest.java
